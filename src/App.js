@@ -1,7 +1,7 @@
 import logo from './logo.svg';
 import './App.css';
 import First from './ES6/First';
-import { AboutPage, MyButton, Board } from './components';
+import { AboutPage, MyButton, Board} from './components';
 
 function App() {
   return (
@@ -10,6 +10,10 @@ function App() {
    <MyButton/>
    <AboutPage/>
    <Board/>
+   
+   
+   
+   
 
     </div>
   );
